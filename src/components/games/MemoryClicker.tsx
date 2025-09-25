@@ -232,7 +232,7 @@ const MemoryClicker = () => {
                 Play Again
               </Button>
               <Button variant="outline" size="lg" onClick={() => navigate('/')} className="flex-1">
-                Home
+                Save Game
               </Button>
             </div>
           </div>
